@@ -1,3 +1,3 @@
 # ha-smartir-saturn-hvac-config
 
-Config file for SmartIR (https://github.com/smartHomeHub/SmartIR) for HVAC Saturn
+Config file for Home Assistant plugin SmartIR (https://github.com/smartHomeHub/SmartIR) for HVAC Saturn
